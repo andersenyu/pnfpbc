@@ -1,0 +1,18 @@
+		body  {
+			background-color: #AAAAA1;
+		}
+		h3{
+			text-align: center;
+			color:blue;
+		}
+		.first { /* (.classname) */
+			background-color:green;
+		}
+		#main {
+			background-color:black;
+			color:white;
+			font-family:Helvetica;
+			font-style:bold; 
+			font-style:italic;
+			font-size:20px;
+		}
